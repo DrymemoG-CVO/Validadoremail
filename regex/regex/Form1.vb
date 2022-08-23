@@ -9,5 +9,6 @@
         If result Then
             MessageBox.Show("Correo vàlido")
         End If
+        'xd
     End Sub
 End Class
