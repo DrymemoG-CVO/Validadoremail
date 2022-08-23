@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2015\Projects\regex\regex\bin\Debug\regex.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\regex\regex\bin\Debug\regex.exe
+c:\users\admin\documents\visual studio 2015\Projects\regex\regex\bin\Debug\regex.pdb
+c:\users\admin\documents\visual studio 2015\Projects\regex\regex\bin\Debug\regex.xml
+c:\users\admin\documents\visual studio 2015\Projects\regex\regex\obj\Debug\regex.vbprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\regex\regex\obj\Debug\regex.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\regex\regex\obj\Debug\regex.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\regex\regex\obj\Debug\regex.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\regex\regex\obj\Debug\regex.exe
+c:\users\admin\documents\visual studio 2015\Projects\regex\regex\obj\Debug\regex.xml
+c:\users\admin\documents\visual studio 2015\Projects\regex\regex\obj\Debug\regex.pdb
